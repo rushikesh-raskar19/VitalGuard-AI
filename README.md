@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner.png" width="900">
-</p>
+
 
 <h1 align="center">🩺 VitalGuard AI</h1>
 <h3 align="center">Smart AI-Based IoT Patient Monitoring System</h3>
