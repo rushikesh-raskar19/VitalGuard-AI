@@ -4,7 +4,7 @@ Overview
 
 VitalGuard AI is an AI-enabled IoT-based smart patient monitoring system integrating multi-sensor fusion and anomaly detection for predictive healthcare.
 
-Features
+**Features**
 
 Heart rate & SpO₂ monitoring
 
@@ -18,7 +18,7 @@ AI anomaly detection
 
 Cloud-based dashboard
 
-Hardware
+**Hardware**
 
 ESP32
 
@@ -32,10 +32,4 @@ MPU6050
 
 MQ-2
 
-Architecture
 
-(Add architecture diagram image here)
-
-Estimated Cost
-
-₹4,000–₹6,000
