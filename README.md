@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/ESP32-IoT-blue">
   <img src="https://img.shields.io/badge/AI-TinyML-green">
   <img src="https://img.shields.io/badge/Cloud-Firebase-orange">
-  <img src="https://img.shields.io/badge/Status-Prototype-success">
+ 
 </p>
 
 ---
@@ -38,7 +38,7 @@ Manual monitoring is inefficient, delayed, and prone to human error.
 ## 🏗 **System Architecture**
 
 <p align="center">
-  <img src="images/architecture.png" width="800">
+  <img src="images/archticur.dig.png" width="800">
 </p>
 
 **Flow:**
