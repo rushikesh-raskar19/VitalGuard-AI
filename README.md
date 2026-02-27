@@ -33,19 +33,7 @@ Manual monitoring is inefficient, delayed, and prone to human error.
 - Sends real-time alerts to cloud dashboard  
 - Uses AI for abnormal pattern detection  
 
----
 
-## 🏗 **System Architecture**
-
-## 🏗 System Architecture
-
-<p align="center">
-  <img src="images/Architecture.png" alt="System Architecture Diagram" width="800">
-</p>
-
-**Flow:**
-
-Sensors → ESP32 → AI Processing → Cloud → Alert System
 
 
 ## 💻 **Software Stack**
