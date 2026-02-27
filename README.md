@@ -37,8 +37,10 @@ Manual monitoring is inefficient, delayed, and prone to human error.
 
 ## 🏗 **System Architecture**
 
+## 🏗 System Architecture
+
 <p align="center">
-  <img src="images/archticur.dig.png" width="800">
+  <img src="images/Architecture.png" alt="System Architecture Diagram" width="800">
 </p>
 
 **Flow:**
